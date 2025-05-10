@@ -1,6 +1,6 @@
-# Quranify Project
+# Quranfi Project
 
-🌙 **Quranify** is a cross-platform, open-source initiative focused on making the Qur'an and Duas more accessible through clean, fast, and modern tools — all developed with students and everyday users in mind.
+🌙 **Quranfi** is a cross-platform, open-source initiative focused on making the Qur'an and Duas more accessible through clean, fast, and modern tools — all developed with students and everyday users in mind.
 
 This repository serves as the central hub for all Quranify-related subprojects, including frontend apps and API services.
 
@@ -10,9 +10,9 @@ This repository serves as the central hub for all Quranify-related subprojects, 
 
 | Repository | Description |
 |-----------|-------------|
-| [Quranify-Dua-API](https://github.com/Quranify-Project/quranify-dua-api) | A Node.js + Express API serving authentic Duas from the Qur'an and Sunnah. Built for extensibility and integration. |
-| [Quranify-Web](https://github.com/Quranify-Project/quranify-web) | A lightning-fast web app built with React, Vite, and TypeScript, featuring Qur'an browsing and Dua lookup. |
-| [Quranify-Android](https://github.com/Quranify-Project/Quranify-Android) | A mobile version of Quranify powered by React, Vite, TypeScript, and Capacitor for native Android deployment. iOS support planned. |
+| [Quranfi-Dua-API](https://github.com/Quranify-Project/quranify-dua-api) | A Node.js + Express API serving authentic Duas from the Qur'an and Sunnah. Built for extensibility and integration. |
+| [Quranfi-Web](https://github.com/Quranify-Project/quranify-web) | A lightning-fast web app built with React, Vite, and TypeScript, featuring Qur'an browsing and Dua lookup. |
+| [Quranfi-Android](https://github.com/Quranify-Project/Quranify-Android) | A mobile version of Quranify powered by React, Vite, TypeScript, and Capacitor for native Android deployment. iOS support planned. |
 
 ---
 
@@ -52,7 +52,7 @@ Feel free to reach out if you're interested in contributing or collaborating!
 
 ## 🧾 License
 
-All Quranify projects are licensed under the **MIT License** unless otherwise stated.
+All Quranfi projects are licensed under the **MIT License** unless otherwise stated.
 
 ---
 
